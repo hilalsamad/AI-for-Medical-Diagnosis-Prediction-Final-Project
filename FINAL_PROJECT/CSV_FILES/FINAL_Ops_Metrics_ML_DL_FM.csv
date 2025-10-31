@@ -1,0 +1,4 @@
+Model,Trainable Params,"P95 Latency (ms, CPU/GPU)",Est. Cost per 1k Images (USD),Est. Energy per Image (Wh)
+ML (LogisticRegression),94,2.97 (CPU),0.0,0.0
+DL (EfficientNet-B0),4008829,9.72 (GPU),0.0020260357499897923,0.00018909666999904727
+FM (MedCLIP+LoRA),786945,11.47 (GPU),0.0023903596458178336,0.0002231002336096645
